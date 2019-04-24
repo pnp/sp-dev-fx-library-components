@@ -1,0 +1,9 @@
+{
+  "id": "b4518e6c-9cc8-49ef-be77-daff22e66040",
+  "alias": "JsOptimizedBundlingLibraryLibrary",
+  "componentType": "Library",
+
+  // The "*" signifies that the version should be taken from the package.json
+  "version": "*",
+  "manifestVersion": 2
+}

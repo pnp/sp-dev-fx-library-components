@@ -1,0 +1,13 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": true,
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.8.0",
+    "libraryName": "js-optimized-bundling",
+    "libraryId": "755a99de-c2bd-412a-a482-940e95cad6df",
+    "packageManager": "npm",
+    "isDomainIsolated": false,
+    "componentType": "library"
+  }
+}

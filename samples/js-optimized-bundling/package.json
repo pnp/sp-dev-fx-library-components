@@ -1,0 +1,34 @@
+{
+  "name": "js-optimized-bundling",
+  "version": "0.0.1",
+  "private": false,
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "build": "gulp bundle",
+    "clean": "gulp clean",
+    "test": "gulp test"
+  },
+  "dependencies": {
+    "@microsoft/sp-core-library": "1.8.0-plusbeta",
+    "@types/es6-promise": "0.0.33",
+    "@types/webpack-env": "1.13.1",
+    "jquery": "^3.4.0",
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {
+    "@microsoft/rush-stack-compiler-2.7": "0.4.0",
+    "@microsoft/sp-build-web": "1.8.0-plusbeta",
+    "@microsoft/sp-module-interfaces": "1.8.0-plusbeta",
+    "@microsoft/sp-tslint-rules": "1.8.0-plusbeta",
+    "@types/chai": "3.4.34",
+    "@types/jquery": "^3.3.29",
+    "@types/mocha": "2.2.38",
+    "@types/moment": "^2.13.0",
+    "ajv": "~5.2.2",
+    "gulp": "~3.9.1"
+  },
+  "main": "lib/index.js",
+  "typings": "lib/index.js"
+}
