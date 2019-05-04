@@ -53,7 +53,7 @@ const myLibraryInstance = new optimizedLibrary.JsOptimizedBundlingLibraryLibrary
 Solution|Author(s)
 --------|---------
 js-optimized-bundling | David Warner II ([@DavidWarnerII](https://twitter.com/davidwarnerii) / [Warner Digital](http://warner.digital))
-js-optimized-bundling | Beau Cameron ([@Beau__Cameron](https://https://twitter.com/Beau__Cameron) / [https://beaucameron.net/](https://beaucameron.net/))
+js-optimized-bundling | Beau Cameron ([@Beau__Cameron](https://twitter.com/Beau__Cameron) / [https://beaucameron.net/](https://beaucameron.net/))
 
 ## Version history
 
