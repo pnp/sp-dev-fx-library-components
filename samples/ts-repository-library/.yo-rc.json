@@ -1,0 +1,12 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.9.1",
+    "libraryName": "ts-repository-library",
+    "libraryId": "81ca6b11-fd11-4f9c-a8b8-6d191f34ba65",
+    "packageManager": "npm",
+    "isDomainIsolated": false,
+    "componentType": "library"
+  }
+}
