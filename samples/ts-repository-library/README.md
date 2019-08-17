@@ -55,6 +55,14 @@ Version|Date|Comments
 
 Web part or extension solution:
 - `npm link ts-repository-library`
+- update package.json:
+``` 
+"dependencies": {
+    "ts-repository-library": "0.0.1", // here we added the reference to the library
+    "@microsoft/sp-core-library": "1.9.1",
+    ...
+}
+```
 - import the repositories:
 ```
 import * as Repository from "ts-repository-library";
