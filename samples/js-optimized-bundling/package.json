@@ -14,7 +14,7 @@
     "@microsoft/sp-core-library": "1.8.0-plusbeta",
     "@types/es6-promise": "0.0.33",
     "@types/webpack-env": "1.13.1",
-    "jquery": "^3.4.0",
+    "jquery": "^3.5.0",
     "moment": "^2.24.0"
   },
   "devDependencies": {
